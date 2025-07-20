@@ -1,6 +1,0 @@
-python-telegram-bot==20.7
-yt-dlp==2024.3.10
-pytgcalls==1.0.0.dev5
-python-dotenv==1.0.1
-Pyrogram==2.0.106
-TgCrypto==1.2.5 
